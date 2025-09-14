@@ -60,4 +60,4 @@ Mục đích chính:
 ## Kết quả
 - LED **PB1**: nhấp nháy định kỳ 1Hz1Hz.  
 - LED **PB0**: thay đổi trạng thái (bật/tắt) mỗi lần nhấn nút **PA0**.
-#### Video Demo: [VIDEO DEMO][(https://drive.google.com/file/d/1V6w4_qXco7EdRfBLSQF3AY87UfdFHwEQ/view?usp=drive_link)](https://drive.google.com/file/d/1-7_pgOY7VUMWy8LWws7v-DDeoztX3IjI/view?usp=sharing)
+#### Video Demo: [VIDEO DEMO](https://drive.google.com/file/d/1V6w4_qXco7EdRfBLSQF3AY87UfdFHwEQ/view?usp=drive_link)](https://drive.google.com/file/d/1-7_pgOY7VUMWy8LWws7v-DDeoztX3IjI/view?usp=sharing)

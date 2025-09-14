@@ -1,11 +1,10 @@
-# STM32F103 - EXTI và Timer Demo
+# BÀI TẬP THỐNG NHÚNG - Bài 3: Điều Khiển Ngắt Ngoài(EXTI)
 
 ## Giới thiệu
 Đoạn code này được viết cho vi điều khiển **STM32F103C8T6**, sử dụng thư viện **Standard Peripheral Library (SPL)**.  
 Mục đích chính:  
 - Điều khiển LED bằng GPIO.  
 - Sử dụng ngắt ngoài (EXTI) để thay đổi trạng thái LED khi nhấn nút.  
-- Dùng Timer2 để tạo hàm **Delay_ms**.
 
 ## Các phần chính của code
 
@@ -16,7 +15,7 @@ Mục đích chính:
   - `EXTI_Config()`  
   - `TIM_Config()`  
 - Trong vòng lặp vô hạn:
-  - LED **PB1** nhấp nháy với chu kỳ 500ms.
+  - LED **PB1** nhấp nháy với chu kỳ 1Hz.
 
 ---
 

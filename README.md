@@ -1,4 +1,4 @@
-# STM32F103 - GPIO, EXTI và Timer Demo
+# STM32F103 - EXTI và Timer Demo
 
 ## Giới thiệu
 Đoạn code này được viết cho vi điều khiển **STM32F103C8T6**, sử dụng thư viện **Standard Peripheral Library (SPL)**.  
@@ -59,5 +59,5 @@ Mục đích chính:
 ---
 
 ## Kết quả
-- LED **PB1**: nhấp nháy định kỳ 500ms.  
+- LED **PB1**: nhấp nháy định kỳ 1Hz1Hz.  
 - LED **PB0**: thay đổi trạng thái (bật/tắt) mỗi lần nhấn nút **PA0**.  
